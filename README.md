@@ -1,5 +1,6 @@
 # Tello_EDU
-This is a gem for programmatically controlling a Ryze Tello EDU or a DJI Tello Talent drone from scripts in thr Ruby language.
+This is a gem for programmatically controlling a Ryze Tello EDU 
+or a DJI Tello Talent drone from scripts in Ruby.
 
 It is initially inspired by a fine gem https://github.com/blacktm/tello
 
